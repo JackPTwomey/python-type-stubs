@@ -1,0 +1,3 @@
+from .artist import Artist
+
+class Text(Artist): ...

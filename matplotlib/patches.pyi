@@ -1,0 +1,3 @@
+from .artist import Artist as Artist
+
+class Patch(Artist): ...
